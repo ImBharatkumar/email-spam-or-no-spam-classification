@@ -1,0 +1,4 @@
+Create IAM and attach policy
+AWS CLI download and Configure in cmd
+create virtual environment
+Create s3 bucket
